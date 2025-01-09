@@ -1,3 +1,3 @@
 
-![Screenshot of the app](Screenshots/todolist.png)
+![Screenshot of the app](home/greycell-labs-inc/Pictures/Screenshots/todolist.png)
 
