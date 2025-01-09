@@ -1,2 +1,3 @@
-![Screenshot of the app](Pictures/todolist.png)
+
+![Screenshot of the app](Pictures/Screenshots/todolist.png)
 
